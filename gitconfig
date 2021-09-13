@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = Hugo.Hubner@rfb.gov.br
+	name = HugoHubner
